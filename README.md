@@ -1,1 +1,1 @@
-Hello world! Shell basics project
+Hello world! Shell basics projects
